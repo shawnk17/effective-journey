@@ -9,12 +9,12 @@ var currentRoll = getRandomNumber(1,6);
     totalRolled += currentRoll;
     // displayArea.innerHTML += '<img src="images/die' + currentRoll + '.jpg"><br>';
     totalArea.innerHTML = "<h2>Total Rolled So Far: " + totalRolled + "</h2>Current Roll: " + currentRoll + "</h2>";
-    
+    ``
 });
 
 startOverButton.addEventListener("click", function(){
-    displayArea.innerHTML = "";
-    // totalArea.innerHTML = "<h2>Total Rolled So Far: 0</h2>";
+    displayArea.innerHTML = " ";
+    totalArea.innerHTML = "<h2>Total Rolled So Far: 0</h2>";
     totalRolled = 0;
 });
 

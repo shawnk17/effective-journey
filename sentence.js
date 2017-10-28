@@ -10,7 +10,7 @@ phrases1 = ["Once upon a time",
 phrases2 = ["lived someone named",
     "there lived a person called",
     "a mad scientist created a hideous monster called",
-    "lived a beautiful elf named",
+    "lived a beautiful beast named",
     "existed an ancient alien who went by the odd name of"],
 phrases3 = [
     "who ate",
@@ -18,17 +18,16 @@ phrases3 = [
     "who fell in love with",
     "who was betrayed by",
     "who loved to play quietly with",
-    "who slayed"],
+    "who killed"],
 
 phrases4 = [
     "an apple",
-    "a fiersome dragon",
+    "a  dragon",
     "a scary ghost",
     "a beautiful young woman",
     "a handome young man",
-    "Spiderman",
-    "a fiery horse named Sparkles",
-    "a puzzle with a picture of a lovely meadow",
+    "Superman",
+    "a puzzle with a picture of a lovely river",
     "a horrifying gorgon"];
 
 
